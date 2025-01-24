@@ -35,7 +35,7 @@ https://nickcoutsos.github.io/keymap-editor/
 | No. | Patrs | Quantity | remarks | Suppliers | Cost |
 |--|--|--|--|--|--|
 |番号|名前|数|備考|調達先|参考価格（送料込）|<br>
-|1|PCB|2|42key(right22key,left20key)|[elecrow](https://www.elecrow.com)<br>[JLCPCB](https://jlcpcb.com)<br>[ALLPCB](https://www.allpcb.com)|５枚で20〜30ドル|<br>
+|1|PCB|2|42key(right20key,left22key)|[elecrow](https://www.elecrow.com)<br>[JLCPCB](https://jlcpcb.com)<br>[ALLPCB](https://www.allpcb.com)|５枚で20〜30ドル|<br>
 |2|XIAO nRF52840|2|MCU Board|[seeed studio](https://jp.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html?msclkid=5541f7f3d0f911eca6023fe520de5bfa)<br>[秋月電子](https://akizukidenshi.com/catalog/g/g117341/)|1940円|
 |3|Swith socket<br>スイッチソケット|42|cherry MX|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
 |4|Diode<br>ダイオード|42|SMD|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|100個で220円程度から|
