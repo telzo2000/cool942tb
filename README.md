@@ -51,10 +51,13 @@ https://nickcoutsos.github.io/keymap-editor/
 |14|cable<br>ケーブル|2|jst端子付き|[Amzon](https://www.amazon.co.jp/dp/B07NRR255D?ref=ppx_yo2ov_dt_b_fed_asin_title)<br>|20セットで800円ほど|
 |15|LiPoバッテリー|2|3.7v 303450 (600mAh)|[Amzon](https://www.amazon.co.jp/dp/B09Z6LS9CN?ref=ppx_yo2ov_dt_b_fed_asin_title)|2個セットで2000円|
 |16|Trackball<br>トラックボール|1|25mm級|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=ppx_yo2ov_dt_b_fed_asin_title)等|1300円ほど|
-
+|17|pinheader<br>ピンヘッダ|1|7pin,L字形<br>コンスルーでも可|[秋月電子](https://akizukidenshi.com/catalog/g/g101627/)<br>[モノタロウ](https://www.monotaro.com/p/4372/1914/?srsltid=AfmBOooNFXhsyVNPPtl8VZ9vMxbrLr2A5btmrf5l_N4rMR9fy4N_bydG)|1個50円または10個で4500円|
 Please use 14 at your own discretion.
 <br>
 14については、各自の判断の上、使用してください。
+<br>
+15については、マックエイトコンスルーだとトラックボール基板の取り外しができます。
+<br>
 
 In addition, you will need a USB cable, etc.
 <br>
