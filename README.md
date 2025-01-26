@@ -23,6 +23,9 @@ keymap editor
 https://nickcoutsos.github.io/keymap-editor/
 
 <br>
+zmk studio
+
+https://zmk.studio/
 <br>
 
 ## build log
