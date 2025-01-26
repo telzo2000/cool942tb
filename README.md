@@ -28,6 +28,8 @@ https://nickcoutsos.github.io/keymap-editor/
 ## build log
 
 <br>
+https://sizu.me/m_ki/posts/ib5cd4bzt3eh
+<br>
 
 
 ## BOM
