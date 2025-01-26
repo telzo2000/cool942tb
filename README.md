@@ -58,6 +58,10 @@ https://sizu.me/m_ki/posts/ib5cd4bzt3eh
 |15|LiPoバッテリー|2|3.7v 303450 (600mAh)|[Amzon](https://www.amazon.co.jp/dp/B09Z6LS9CN?ref=ppx_yo2ov_dt_b_fed_asin_title)|2個セットで2000円|
 |16|Trackball<br>トラックボール|1|25mm級|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=ppx_yo2ov_dt_b_fed_asin_title)等|1300円ほど|
 |17|pinheader<br>ピンヘッダ|1|7pin,L字形<br>コンスルーでも可|[秋月電子](https://akizukidenshi.com/catalog/g/g101627/)<br>[モノタロウ](https://www.monotaro.com/p/4372/1914/?srsltid=AfmBOooNFXhsyVNPPtl8VZ9vMxbrLr2A5btmrf5l_N4rMR9fy4N_bydG)|1個50円または10個で4500円|
+|18|PCBA|1|Trackball parts|[JLCPCB](https://jlcpcb.com)<br>[ALLPCB](https://www.allpcb.com)|５枚で50ドル|<br>
+|19|PWM3610|1||[アリエク](https://ja.aliexpress.com/item/1005007622547772.html?spm=a2g0o.order_list.order_list_main.45.72e8585aVqU7cH&gatewayAdapt=glo2jpn)|1000円ぐらい|
+|20|Trackball|1||(Amazon)[https://www.amazon.co.jp/エレコム-トラックボール用交換ボール-34mm-レッド-M-B1RD/dp/B07NJ4WM26/ref=sr_1_36?crid=38BC466W6CEOJ&dib=eyJ2IjoiMSJ9.BSfqszvtDyTJqFqyOQJzwh7T36BgMTWG7ZAwZtQ0MUkS6QXWOyCOwA563khd_TUPTecAD5ELVAYFRjK06YXBDGSep0RvcO2vGV86bPXsq6LePnnwsI_LjK9syMXXO0YL3FgoCppkn7TgY6j7gEa1GnKMj3Vs_GiyFKbRPifSd64F3m3T8AO2riausgxACC4sw7jTvgULzVoXoFxj3jqCzEVY-dWeKiFPGC1A2ypUPp2WzpQD1FNqvMPLwNYqi_vymMSegT7jr9LJJOdekes3XGILMF6uJX84y_AGjZI-kqzuZ_12fqIT_RIZ3vz6gKWqFqp0hY2kC-KnC7OEGrWja1Se4L8nsdUsLJ0RTITd8cvIxh8Y1e9WYUGtLffkn5CDdeiFv47lCBum9vzDhpEyYsitbNOJAZKZ60DRvBZ3_dx_hYtvbThhXbNBnlxLK1ii.e1pjpvtsBzhVu4ET-es0dDLTENdTn_F8Z2Jz9CFyLFs&dib_tag=se&keywords=トラックボール&qid=1737853466&sprefix=トラック%2Caps%2C181&sr=8-36]など|2000円ぐらい|
+
 Please use 14 at your own discretion.
 <br>
 14については、各自の判断の上、使用してください。
