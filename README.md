@@ -10,6 +10,11 @@ cool942tb use [Seeed XIAO BLE nRF52840](https://jp.seeedstudio.com/Seeed-XIAO-BL
 <br>
 <br>
 
+## Motivation for design
+
+https://sizu.me/m_ki/posts/cbom5tm96a0u
+<br>
+
 ## Firmware
 
 zmk-config
