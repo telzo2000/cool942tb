@@ -120,20 +120,110 @@ If you put in too much solder, use the solder suction to remove excess solder.
 8 xiaoの左右外側にある端子にフラックスを塗る。その後、端子ごとに、ハンダ付けをする。
 <br>
 <br>
-
-
-
-
-
-
-4
+Did you do well?
 <br>
-5
+上手くできましたか？
 <br>
-6
 <br>
-7
+
+## 4  JSTケーブルの取り付け
+
+Please turn the back of the keyboard board up.
 <br>
+キーボード基板の裏面を上向きにしてください。
+<br>
+Plug the red cable of the JST cable into the BAT and the black cable into the GND and solder.
+<br>
+JSTケーブルの赤色ケーブルをBATに、黒色ケーブルをGNDに差し込んで、ハンダ付けをしてください。
+<br>
+<br>
+There is something I want you to pay attention to. Make sure that the positive pole of the cable socket of the LiPo battery you want to buy is connected to the BAT and the negative pole to the GND.
+<br>
+There was a case where the red and black sides of the socket attached to the battery sold were reversed.
+<br>
+注意してほしいことがあります。購入するLiPoバッテリーのケーブルのソケットのプラス極がBATに、マイナス極がGNDに導通することを確認してください。
+<br>
+販売されているバッテリーについているソケットの赤色、黒色が左右逆の事例がありました。
+<br>
+<br>
+
+
+## 5 スライドスイッチのハンダ付け
+
+Insert the switch from the back of the PCB with the switch knob facing outward.
+<br>
+スイッチのつまみが外側に向くようにして、PCBの裏面から差し込みます。
+
+After temporarily fixing it with masking tape, etc., solder the exposed part of the PCB.
+<br>
+マスキングテープなどで仮固定をしてから、PCBの表面に出た部分をはんだ付けします。
+<br>
+
+
+[スライドスイッチのはんだ付けの作業動画](https://youtu.be/5nkRklibay4)
+
+<br>
+
+## 6 L字コンスルー（またはピンヘッダ） のハンダ付け
+
+First, use a nipper or cutter to cut the L-shaped conslue into 7 pins.
+<br>
+If you suddenly try to cut between the 7th and 8th pins, it is easy to fail, so it is a good idea to cut between the 8th and 9th pins and then adjust them with a file.
+<br>
+最初にL字コンスルーを7ピンになるようにニッパーやカッターなどを使い、裁断してください。
+<br>
+いきなり、７つ目のピンと８つ目のピンの間を裁断しようとすると、失敗しやすいので、8つ目と９つ目の間を裁断してからヤスリなどで調整するとよいでしょう。
+<br>
+<br>
+Insert the L-shaped through spring from the surface of the keyboard board and temporarily fix it with masking tape, etc.
+<br>
+Turn the back of the board up and solder it.
+<br>
+L字コンスルーのバネのついていない方を、キーボード基板表面から差し込んで、マスキングテープなどで仮固定します。
+<br>
+基板裏面を上向にして、ハンダ付けをします。
+<br>
+<br>
+
+## 7 トラックボール基板の作成
+
+The trackball board has components installed from the beginning. The implemented side is the back side.
+<br>
+トラックボール基板は最初から部品が実装されています。実装されている面を裏面とします。
+<br>
+<br>
+Remove the PWM3610 acrylic parts.
+<br>
+PWM3610アクリル部品を取り外します。
+<br>
+<br>
+Check the pin of the PWM3610 and insert it from the surface of the trackball board. Temporarily fix it with masking tape.
+<br>
+PWM3610のピンを確認して、トラックボール基板の表面から差し込みます。マスキングテープで仮固定します。
+<br>
+<br>
+The back of the trackball board is facing up and the part that came out of the pin hole is soldered.
+<br>
+トラックボール基板の裏面を上向きにして、ピン穴からでた部分をはんだ付けします。
+<br>
+<br>
+The lens part of the PWM3610 is covered with tape, so remove it.
+<br>
+PWM3610のレンズ部分がテープで覆われているので、それを外します。
+<br>
+<br>
+From the back of the trackball board, cover the acrylic part on the PWM3610, and melt the acrylic on the back with a soldering ick to prevent it from coming off.
+<br>
+トラックボール基板の裏面の方から、アクリル部品をPWM3610に被せて、その裏側に出たアクリルをハンダごてで溶かして外れないようにします。
+<br>
+<br>
+
+
+
+
+
+
+
 8
 <br>
 9
