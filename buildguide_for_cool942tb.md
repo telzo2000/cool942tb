@@ -1,4 +1,4 @@
-# Buildguide for cool942tb
+　# Buildguide for cool942tb
 
 <br>
 
@@ -218,13 +218,81 @@ From the back of the trackball board, cover the acrylic part on the PWM3610, and
 <br>
 <br>
 
+## 8 スイッチプレートの組み立て
 
-
-
-
-
-
-8
+Insert the M2 8mm screw from the top of the switch plate.
 <br>
-9
+Fix it with an M2 3mm spacer on the bottom of the switch plate.
 <br>
+スイッチプレート上面からM2 8mmネジを差し込みます。
+<br>
+それをスイッチプレート下面でM2 3mmスペーサーで固定します。
+<br>
+<br>
+Overlay the switch plate on the PCB.
+<br>
+There are some M2 8mm screws on the underside of the PCB, so fix them with an M2 3mm spacer.
+<br>
+There are 4 places each on the left and right, a total of 8 places.
+<br>
+スイッチプレートをPCBに重ねます。
+<br>
+PCB下面にM2 8mmネジが少し出ますので、M2 3mmスペーサーで固定します。
+<br>
+左右それぞれ4箇所で、合計8箇所行います。
+<br>
+
+## 9 スイッチの差し込み
+
+Plug your favorite key switch into the one you made in section 8.
+<br>
+When plugging in, it may not be plugged in properly and the terminal of the key switch may bend.
+<br>
+Please be careful.
+<br>
+If it is bent, it can be repaired with radio pliers, etc., and it can be reused.
+<br>
+It's a mistake you often make, so don't worry about it, plug in the key switch more and more.
+
+<br>
+セクション8で作ったものに、自分のお気に入りのキースイッチを差し込みます。
+<br>
+差し込むときに、うまく差し込めず、キースイッチの端子が曲がってしまうことがあります。
+<br>
+気を付けてください。
+<br>
+もし曲がったときは、ラジオペンチなどで直しせば、再利用できます。
+<br>
+自分もよくやるミスなので、気にせず、どんどんキースイッチを差し込みましょう。
+<br>
+<br>
+
+## 10 バッテリーの固定と接続
+
+<b>
+Use a LiPo battery. Please respond to various problems arising from use at your own risk.
+<br>
+If you do not agree, please give up using the LiPo battery in cool942tb.
+<br>
+LiPoバッテリーを使用します。使用上、発生した諸問題については、ご自身の責任のもとで対応ください。
+<br>
+同意できない方は、cool942tbにおいて、LiPoバッテリーの使用を諦めてください。
+</b>  
+<br>
+<br>
+
+
+11
+
+12
+
+13
+
+14
+
+
+
+
+
+
+
