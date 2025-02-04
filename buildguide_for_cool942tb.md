@@ -1,4 +1,4 @@
-　# Buildguide for cool942tb
+# Buildguide for cool942tb
 
 <br>
 
@@ -280,9 +280,60 @@ LiPoバッテリーを使用します。使用上、発生した諸問題につ�
 </b>  
 <br>
 <br>
+First, please check the plus and minus poles of the prepared LiPo battery.
+<br>
+Do not connect to the keyboard's JST cable immediately.
+<br>
+The JST cable extending from the keyboard is the positive pole (BAT) in red and the negative pole (GND) in black.
+<br>
+Make sure that the JST cable socket and the cable destination socket attached to the LiPo battery are connected in the same color.
+<br>
+If the same color is connected to each other, it can be used without any problems.
+<br>
+If they are not the same color, prepare a warm solder, melt the solder that fixes the substrate and the JST cable, and remove the cable.
+<br>
+Then, solder the black cable to the BAT of the substrate and the red cable to the GND. Now you can use it without any problems even if the socket is different.
+<br>
+最初に、用意したLiPoバッテリーのプラス極・マイナス極を確認してください。
+<br>
+すぐに、キーボードのJSTケーブルに繋がないでください。
+<br>
+キーボードから伸びているJSTケーブルは、赤色がプラス極（BAT）、黒色がマイナス極（GND）となっています。
+<br>
+JSTケーブルのソケットと、LiPoバッテリーについているケーブル先のソケットは、同じ色同士がつながるかどうか確認してください。
+<br>
+同じ色同士が繋がるならば、問題なく使えます。
+<br>
+同じ色同士ではないならば、温めたハンダゴテを用意して、基板とJSTケーブルを固定しているハンダを溶かして、ケーブルを取り外してください。
+<br>
+そして、基板のBATに黒色のケーブルを、GNDに赤色のケーブルをはんだ付けしてください。これで、ソケットが違っていても問題なく使用できます。
+<br>
+<br>
+If there is no problem, please connect the JST cable extending from the board to the LiPo battery cable.
+<br>
+問題がないのであれば、基板から伸びているJSTケーブルとLiPoバッテリーのケーブルを繋いでください。
+<br>
+    <br>
+        
 
+## 11 ボトムケースの取り付け
 
-11
+Place the LiPo battery in the recess in the center of the bottom case. Use double-sided tape or masking tape to fix it.
+<br>
+LiPoバッテリーをボトムケースの中央にある凹部に置きます。固定には両面テープやマスキングテープを使用してください。
+<br>
+Place the switch knob in the bottom case.
+<br>
+Insert the board into the bottom case, paying attention that the convex part of the slide sitch of the board enters the concave part of the switch knob.
+<br>
+From the bottom of the bottom case, insert and fix the M2 4mm screws in 4 places on the left and right.
+<br>
+ボトムケース内に、スイッチノブを置きます。
+<br>
+スイッチノブの凹部に、基板のスライドスッチの凸部が入るように注意しながら、ボトムケース内に、基板を入れます。
+<br>
+ボトムケース底面から、左右それぞれ4箇所に、M2 4mmネジを差し込み固定します。
+<br>
 
 12
 
