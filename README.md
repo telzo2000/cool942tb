@@ -60,9 +60,9 @@ https://github.com/telzo2000/cool942tb/blob/main/buildguide_for_cool942tb.md
 |7|Swith socket<br>スイッチソケット|42|cherry MX|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
 |8|Slide switch<br>スライドスイッチ|2||[秋月電子](https://akizukidenshi.com/catalog/g/g115370/)|１個30円|
 |9|JST cable<br>JSTケーブル|||[Amazon](https://www.amazon.co.jp/dp/B07NRR255D?ref=ppx_yo2ov_dt_b_fed_asin_title)|20組で800円程度|
-|10|Screw<br>ネジ|10|M2 4mm|DIY shop|10本200円程度|
+|10|Screw<br>ネジ|12|M2 4mm|DIY shop|10本200円程度|
 |11|Screw<br>ネジ|8|M2 8mm|DIY shop|10本200円程度|
-|12|Spacer<br>スペーサー|10|M2 3mm|DIY shop|10本400円程度|
+|12|Spacer<br>スペーサー|18|M2 3mm|DIY shop|10本400円程度|
 |13|pinheader<br>ピンヘッダ|1|7pin,L字形<br>コンスルーでも可|[秋月電子](https://akizukidenshi.com/catalog/g/g101627/)<br>[モノタロウ](https://www.monotaro.com/p/4372/1914/?srsltid=AfmBOooNFXhsyVNPPtl8VZ9vMxbrLr2A5btmrf5l_N4rMR9fy4N_bydG)|1個50円または10個で4500円|
 |14|XIAO nRF52840|2|MCU Board|[seeed studio](https://jp.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html?msclkid=5541f7f3d0f911eca6023fe520de5bfa)<br>[秋月電子](https://akizukidenshi.com/catalog/g/g117341/)|1940円|
 |15|Trackball<br>トラックボール|1|25mm級|[Amazon](https://www.amazon.co.jp/dp/B0D4DYH8XY?ref=ppx_yo2ov_dt_b_fed_asin_title)等|1300円ほど|
