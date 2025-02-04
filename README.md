@@ -40,6 +40,11 @@ https://zmk.studio/
 https://sizu.me/m_ki/posts/ib5cd4bzt3eh
 <br>
 
+## buildguide
+
+<br>
+https://github.com/telzo2000/cool942tb/blob/main/buildguide_for_cool942tb.md
+<br>
 
 ## BOM
 
