@@ -335,11 +335,58 @@ From the bottom of the bottom case, insert and fix the M2 4mm screws in 4 places
 ボトムケース底面から、左右それぞれ4箇所に、M2 4mmネジを差し込み固定します。
 <br>
 
-12
+## 12 トラックボールの固定
 
-13
+Install the trackball board to fit the 7 pins of the L-shaped through on the right side of the keyboard board.
+<br>
+Insert 2 M2 4mm screws from the inside of the ball case and fix it with an M2 3mm spacer on the bottom of the ball case.
+<br>
+Insert the ball case so that it can be put on the trackball board.
+<br>
+The spacer on the bottom of the ball case is inserted into the concave part of the bottom case.
+<br>
+Insert 2 M2 4mm screws from the bottom of the bottom case and fix the spacer.
+<br>
+トラックボール基板をキーボード基板の右手側にあるL字コンスルーの7ピンに合うように取り付けます。
+<br>
+ボールケースの内側から2箇所、M2 4mmネジを差し込み、ボールケース底面でM2 3mmスペーサーで固定します。
+<br>
+ボールケースをトラックボール基板に被せるように差し込みます。
+＜br＞
+ボールケース底面にあるスペーサーがボトムケースの凹部に差し込まれるようにします。
+<br>
+ボトムケース底面から2箇所、M2 4mmネジを差し込み、スペーサーを固定します。
+<br> 
+<br>
+If you want to turn the ball better, put the support ball in 3 places in the ball case. Woodworking bonds are the best for fixing.
+<br>
+よりよくボールを回したいと考えているならば、支持球をボールケース内に3箇所入れてください。固定には、木工用ボンドが最適です。
+<br>
+<br>
+Please attach a 25mm ball to the ball case.
+<br>
+ボールケースに25mm球を装着してください。
+<br>
+<br>
 
-14
+## 13 キーキャップの装着
+
+Please attach your favorite keycap (40% kit is recommended).
+<br>
+お好きなキーキャップ（40％キットがお勧め）を装着してください。
+<br>
+
+
+## 14 完成
+
+After attaching non-slip rubber to the bottom of the bottom case, it's done.
+<br>
+Please enjoy a life with a better keyboard.
+<br>
+ボトムケースの底面に、滑り止めゴムを取り付けたら、完成です。
+<br>
+よりよいキーボードのある生活を楽しんでください。
+<br>
 
 
 
