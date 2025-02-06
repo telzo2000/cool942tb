@@ -12,7 +12,7 @@ cool942tb use [Seeed XIAO BLE nRF52840](https://jp.seeedstudio.com/Seeed-XIAO-BL
 
 ## Layout
 
-
+![](img/cool942tb.jpg)
 
 
 ## Motivation for design
