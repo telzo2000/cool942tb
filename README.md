@@ -83,6 +83,26 @@ Please use 14 at your own discretion.
 <br>
 13については、マックエイトコンスルーだとトラックボール基板の取り外しができます。ただし、単品での購入は難しいです。
 <br>
+<br>
+The specifications above are for cherry MX switches that use LiPo batteries.
+<br>
+上記の仕様は、cherry MXスイッチで、LiPoバッテリーを採用したものとなります。
+<br>
+<br>
+When using a choc switch, change the M2 8mm screw to an M2 5mm screw. If possible, low head screws are better.
+<br>
+chocスイッチを使用する場合、M2 8mmネジを、M2 5mmネジに変更してください。できれば、低頭ねじがよいです。
+<br>
+Also, eight M2 3mm spacers are no longer required.
+<br>
+また、M2 3mmスペーサーが８つ不要となります。
+<br>
+<br>
+When using a battery case, two [battery cases](https://www.marutsu.co.jp/pc/i/59151/?srsltid=AfmBOoo5ctOn9kOUGJA7pCL4M2f4Y3IolfSweL7epFytDI-BLKNBKMa8) are required instead of requiring a LiPo battery.
+<br>
+電池ケースを採用する場合、LiPoバッテリーが不要となる代わりに、[電池ケース](https://www.marutsu.co.jp/pc/i/59151/?srsltid=AfmBOoo5ctOn9kOUGJA7pCL4M2f4Y3IolfSweL7epFytDI-BLKNBKMa8)が２つ必要となります。
+<br>
+<br>
 
 In addition, you will need a USB cable, etc.
 <br>
