@@ -1,8 +1,10 @@
 # Buildguide for cool942tb
 
 <br>
+This is a build guide when using Cherry MX switches and LiPo batteries.
+<br>
+Cherry MXスイッチ、LiPoバッテリーを採用した場合のビルドガイドになります。
 
-この文章は書きかけです。
 <br>
 
 ## 0 部品の確認
@@ -63,6 +65,7 @@ Solder the switch socket on the back of the left and right keyboard boards.
 
 ## 3 Seeed xiao bleのハンダ付け
 
+![](img/img00002.jpg)
 Solder Seeed xiao ble on the back of the left and right keyboard boards. The difficulty is high, so please do it carefully.
 <br>
 左右のキーボード基板の裏面に、Seeed xiao bleをハンダ付けします。難度が高いので、注意深く行なってください。
@@ -75,6 +78,8 @@ Please follow the steps below.
 1 The one with the xiao reset switch is the surface. Apply flux to the 4 BAT and NFC terminals on the back.
 <br>
 1 xiaoのリセットスイッチのある方を表面とする。裏面にある、BATとNFCの端子４つにフラックスを塗る。
+![](img/img00003.jpg)
+
 <br>
 <br> 
 2 Put the back of the keyboard board up and put xiao on it. The one with the xiao reset switch is up.
@@ -85,11 +90,15 @@ Please follow the steps below.
 3 Use the pin header included with xiao, insert it into the left and right pin holes, and temporarily fix it.
 <br>
 3 xiao付属のピンヘッダを利用し、左右のピン穴に差し込み、仮固定する。
+
+![](img/img00004.jpg)
 <br>
 <br>
 4 Change the orientation of the board and xiao. The surface of the keyboard board is on top.
 <br>
 4 基板とxiaoの向きを変える。キーボード基板の表面が上になる。
+
+![](img/img00005.jpg)
 <br>
 <br>
 5 Make sure that there are two rectangular open places on the board where xiao overlaps. Apply flux to the terminal of that part.
@@ -104,6 +113,8 @@ From the open part of the square, if the solder is placed on the terminal of the
 If you put in too much solder, use the solder suction to remove excess solder.
 <br>
 6 温めたハンダゴテを５の場所（4箇所あるので、１つずつ）に当てる。少し煙が出るほど温めたタイミングで、ハンダ線をハンダゴテに付けて、ハンダを流し込む。
+
+![](img/img00006.jpg)
 <br>
 　四角形の開いた部分から、xiaoの端子にハンダが載っていて、基板の端子とくっついていれば、大丈夫である。
 <br>
@@ -113,11 +124,14 @@ If you put in too much solder, use the solder suction to remove excess solder.
 7 With the back of the keyboard board up, pull out the temporarily fixed pin header from the board and xiao.
 <br>
 7 キーボード基板の裏面を上にして、仮固定のピンヘッダを基板とxiaoから抜く。
+![](img/img00007.jpg)
+
 <br>
 <br>
 8 Apply flux to the left and right outer terminals of xiao. After that, solder each terminal.
 <br>
 8 xiaoの左右外側にある端子にフラックスを塗る。その後、端子ごとに、ハンダ付けをする。
+![](img/img00008.jpg)
 <br>
 <br>
 Did you do well?
@@ -142,6 +156,8 @@ There is something I want you to pay attention to. Make sure that the positive p
 There was a case where the red and black sides of the socket attached to the battery sold were reversed.
 <br>
 注意してほしいことがあります。購入するLiPoバッテリーのケーブルのソケットのプラス極がBATに、マイナス極がGNDに導通することを確認してください。
+![](img/img00009.jpg)
+
 <br>
 販売されているバッテリーについているソケットの赤色、黒色が左右逆の事例がありました。
 <br>
