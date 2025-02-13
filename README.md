@@ -39,6 +39,13 @@ https://zmk.studio/
 
 <br>
 
+zmk_firmwareでのキーマップ編集について
+
+
+https://sizu.me/posts/m3devs7be5km/edit
+
+<br>
+
 ## build log
 
 <br>
