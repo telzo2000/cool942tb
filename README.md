@@ -42,7 +42,7 @@ https://zmk.studio/
 zmk_firmwareでのキーマップ編集について
 
 
-https://sizu.me/posts/m3devs7be5km/edit
+https://sizu.me/m_ki/posts/m3devs7be5km
 
 <br>
 
