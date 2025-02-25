@@ -5,11 +5,11 @@
       "Application": "Pcbnew",
       "Version": "8.0.7"
     },
-    "CreationDate": "2024-12-29T17:35:44+09:00"
+    "CreationDate": "2025-02-24T15:42:20+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "pmw3610_breakout_for_roBa",
+      "Name": "pmw3610_breakout",
       "GUID": "706d7733-3631-4305-9f62-7265616b6f75",
       "Revision": "rev?"
     },
@@ -32,37 +32,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "pmw3610_breakout_for_roBa-F_Cu.gbr",
+      "Path": "pmw3610_breakout-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pmw3610_breakout_for_roBa-B_Cu.gbr",
+      "Path": "pmw3610_breakout-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pmw3610_breakout_for_roBa-F_Silkscreen.gbr",
+      "Path": "pmw3610_breakout-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pmw3610_breakout_for_roBa-B_Silkscreen.gbr",
+      "Path": "pmw3610_breakout-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "pmw3610_breakout_for_roBa-F_Mask.gbr",
+      "Path": "pmw3610_breakout-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "pmw3610_breakout_for_roBa-B_Mask.gbr",
+      "Path": "pmw3610_breakout-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "pmw3610_breakout_for_roBa-Edge_Cuts.gbr",
+      "Path": "pmw3610_breakout-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
