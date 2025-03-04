@@ -409,7 +409,17 @@ Please enjoy a life with a better keyboard.
 <br>
 
 
+## 15 動作確認について
 
+ファームウェアの導入について、こちらの記事を参考にしてください。
+<br>
+[自作キーボードへのzmk_firmwareのインストールについて](https://sizu.me/m_ki/posts/kvixkn2mec6a)
+
+<br>
+Keymapの編集について、こちらの記事を参考にしてください。
+<br>
+
+[zmk_firmwareでのキーマップ編集について](https://sizu.me/m_ki/posts/m3devs7be5km)
 
 
 
